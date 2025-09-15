@@ -1,5 +1,5 @@
 
-# Hi, I’m Lashmi 👋
+# Hi, I’m Lashmy 👋
 
 **Data Scientist | Machine Learning Enthusiast | Analytics Explorer**
 

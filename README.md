@@ -1,4 +1,4 @@
-![Profile Banner](https://images.unsplash.com/photo-1465101178521-c1a9136a3b39?fit=crop&w=1200&q=80)
+![Avatar](https://avatars.githubusercontent.com/u/583231?v=4)
 
 # Hi, I’m Lashmi 👋
 
@@ -17,7 +17,6 @@ I’m passionate about solving real-world problems with data and machine learnin
 - [**Churn Prediction – Random Forest**](https://github.com/lashm4/churn-prediction-random-forest-classifier): Leveraging ensemble methods to improve classification accuracy.
 - [**Churn Prediction – XGBoost**](https://github.com/lashm4/churn-prediction-XGBoost): Gradient boosting for powerful, interpretable churn prediction.
 - [**Sentiment Classification & Clustering**](https://github.com/lashm4/SentimentClassification-Clustering): NLP and unsupervised learning to extract insights from customer reviews.
-- [**Insurance Claims Analytics**](https://github.com/lashm4/Insurance-Claims-Analytics): Exploring trends and anomalies in claims data.
 - **Neural Network Product Assistant** *(in progress)*: Building an image recognition tool for retail products using CNNs and real-world data integration.
 
 ---

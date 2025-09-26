@@ -1,7 +1,7 @@
 
 # Hi, I’m Lashmy 👋
 
-**Data Scientist | Machine Learning Enthusiast | Analytics Explorer**
+**Data | Machine Learning Enthusiast | Analytics Explorer**
 
 ---
 

@@ -37,6 +37,4 @@ I’m passionate about solving real-world problems with data and machine learnin
 
 ---
 
-![Avatar](https://avatars.githubusercontent.com/u/583231?v=4)
-
 **Let’s connect and create something impactful!**

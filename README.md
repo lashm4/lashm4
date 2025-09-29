@@ -16,7 +16,6 @@ I’m passionate about solving real-world problems with data and machine learnin
 - [**Churn Prediction – Random Forest**](https://github.com/lashm4/churn-prediction-random-forest-classifier): Leveraging ensemble methods to improve classification accuracy.
 - [**Churn Prediction – XGBoost**](https://github.com/lashm4/churn-prediction-XGBoost): Gradient boosting for powerful, interpretable churn prediction.
 - [**Sentiment Classification & Clustering**](https://github.com/lashm4/SentimentClassification-Clustering): NLP and unsupervised learning to extract insights from customer reviews.
-- **Neural Network Product Assistant** *(in progress)*: Building an image recognition tool for retail products using CNNs and real-world data integration.
 
 ---
 

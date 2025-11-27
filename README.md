@@ -21,7 +21,7 @@ I’m passionate about solving real-world problems with data and machine learnin
 
 ## Skills & Tools
 
-- **Languages:** Python (pandas, NumPy, seaborn, scikit-learn, TensorFlow basics), SQL
+- **Languages:** Python (pandas, NumPy, seaborn, scikit-learn, TensorFlow basics), SQL, Pytorch
 - **ML & Data:** Supervised/unsupervised learning, NLP, clustering, statistical modelling
 - **Visualisation:** Tableau, Power BI, Looker Studio
 - **Workflow:** Jupyter, Git, Google Analytics, A/B testing

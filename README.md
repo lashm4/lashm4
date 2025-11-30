@@ -6,7 +6,7 @@
 ---
 
 Welcome to my GitHub!  
-I’m passionate about solving real-world problems with data and machine learning. Here you’ll find projects where I experiment with predictive modelling, NLP, computer vision, and data visualisation, always looking for new challenges and ways to turn data into actionable insights.
+I’m passionate about solving real world problems with data and machine learning. Here you’ll find projects where I experiment with predictive modelling, NLP, computer vision, and data visualisation, always looking for new challenges and ways to turn data into actionable insights.
 
 ---
 

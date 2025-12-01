@@ -1,7 +1,7 @@
 
 # Hi, I’m Lashmy 👋
 
-**Analytics Explorer | Data | Machine Learning Enthusiast**
+**Marketing Analytics | Data | Machine Learning Enthusiast**
 
 ---
 
